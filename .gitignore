@@ -1,0 +1,6 @@
+# Exclure un fichier
+TODO.txt
+.DS_Store
+*.sketch
+# Exlure des fichiers dans un dossier
+sources/*.txt

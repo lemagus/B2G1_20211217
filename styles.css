@@ -11,6 +11,9 @@ body{
     position: absolute;
     top: 0;
     right: 0;
-    
+    font-size: 15em;
+}
+
+.beer {
     font-size: 15em;
 }
