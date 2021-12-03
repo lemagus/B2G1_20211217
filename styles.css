@@ -1,6 +1,16 @@
 body{
+    position: relative;
     background-color:lightyellow;
     color:maroon;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 2em;
+}
+
+.sun {
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+    font-size: 15em;
 }
