@@ -4,3 +4,4 @@ TODO.txt
 *.sketch
 # Exlure des fichiers dans un dossier
 sources/*.txt
+test1.txt
